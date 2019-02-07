@@ -1,0 +1,93 @@
+
+.textoLabel{
+  font-family: Lato;
+  font-style: Light;
+  font-size: 16px;
+}
+
+
+.el-form--label-top .el-form-item__label{
+     padding: 0px 0px 10px 0px !important;
+}
+
+.el-form-item__label{
+  line-height: 0px  !important;
+}
+
+.el-form-item{
+  margin-bottom: 15px !important;
+}
+
+.extender{
+  width: 100%;
+}
+
+
+.marginFormulario{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.row-bg {
+  background-color: #f9fafc;
+}
+
+.tamanoColapso{
+  width: 95%;
+  margin: auto;
+}
+
+.literalPrincipal{
+  font-family: Lato;
+  font-style: Light;
+  font-size: 20px;
+
+}
+
+.textoCabeceraPrincipal{
+  font-family: Lato;
+  font-style: Light;
+  font-size: 30px;
+
+}
+
+.anchoPantalla{
+  width:80%;
+  margin:0 auto 0 auto;
+}
+
+// .borde{
+//   border: 1px solid rgba(189, 195, 199, .5);
+// }
+
+.borde{
+    border: 1px solid;
+    border-color: lightgrey;
+}
+
+.aireIzda{
+  padding-left: 1em;
+}
+
+.aireDcha{
+  padding-right: 1em;
+}
+
+.aireTop{
+  margin-top:1em;
+}
+
+.logoTitulo {
+  max-height: 70%;
+  padding:0px;
+}
+
+
+.camposObligatorios{
+  font-family: Lato;
+  font-style: Light;
+  font-size: 12px;
+  margin-top: 0;
+  color: red;
+}
+
